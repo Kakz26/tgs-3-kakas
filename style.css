@@ -13,3 +13,9 @@ img {
     display: block; /* Memastikan gambar berada di tengah */
     margin: 0 auto; /* Memberikan margin otomatis untuk membuat gambar berada di tengah */
 }
+h1 {
+    color: #333;
+}
+p {
+    color: #555;
+}
