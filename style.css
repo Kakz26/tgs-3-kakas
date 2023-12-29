@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+    text-align: center; /* Membuat konten berada di tengah */
+    background-color: #f0f0f0; /* Warna latar belakang halaman */
+}
+
+img {
+    max-width: 200px; /* Atur ukuran gambar sesuai kebutuhan */
+    height: auto;
+    border-radius: 50%;
+    display: block; /* Memastikan gambar berada di tengah */
+    margin: 0 auto; /* Memberikan margin otomatis untuk membuat gambar berada di tengah */
+}
+h1 {
+    color: #333;
+}
+p {
+    color: #555;
+}
+
+footer {
+    background-color: #333; /* Warna latar belakang footer */
+    color: #fff; /* Warna teks footer */
+    padding: 10px; /* Padding untuk memberikan ruang di sekitar teks */
+    border-radius: 10px; /* Sudut melengkung untuk estetika (opsional) */
+}
